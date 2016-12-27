@@ -5,13 +5,13 @@ This two-player game models the GoStop Impulsivity Paradigm (http://www.nrlc-gro
 Here is a video of the game in action: https://www.youtube.com/watch?v=ZP1Lw-iy6Q8
 
 Materials:
--Adafruit LED strips
--RGB Led's
--2 Piezos
--Repurposed Wood tissue box cover
--Two squares of plywood
--One half of a clear Christmas ornament
--Various resistors and breadboard
+- Adafruit LED strips
+- RGB Led's
+- 2 Piezos
+- Repurposed Wood tissue box cover
+- Two squares of plywood
+- One half of a clear Christmas ornament
+- Various resistors and breadboard
 
 Dependencies:
 Adafruit NeoPixel library
