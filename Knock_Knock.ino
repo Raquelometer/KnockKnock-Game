@@ -1,4 +1,3 @@
-#include <SimpleMessageSystem.h>
 #include <Adafruit_NeoPixel.h>
 
 const int RedPin = 1;
